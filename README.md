@@ -1,4 +1,4 @@
-# TopWordFrequency Program - Shared State Style
+# TopWordFrequency Program - Procedural Style
 
 ## Overview
 --------
@@ -49,7 +49,7 @@ Place the following files in the same folder:
    (Note: The first argument is ignored; the second argument is the actual input file name.)
 
    Example:
-   java Five x pride-prejudice.txt
+   java Five test.txt pride-prejudice.txt
 
 ## Expected Output
 ---------------
